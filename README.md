@@ -26,7 +26,5 @@ If you want to test this project locally on a Linux/POSIX environment or Windows
 
 
 
-   👤 Author
-Efe Turan * Student & C++ Developer
-
-Portfolio: efeturan.netlify.app
+   👤 Author * Efe Turan C++ Developer
+   Portfolio: efeturan.netlify.app
